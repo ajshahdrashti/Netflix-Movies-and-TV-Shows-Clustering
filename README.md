@@ -1,6 +1,5 @@
 # Netflix-Movies-and-TV-Shows-Clustering
-
-file:///C:/Users/Hp/OneDrive/Desktop/netflix.webp
+(https://data.nssmag.com/images/galleries/12502/netflix.png)
 
 
 **Introdution** 
