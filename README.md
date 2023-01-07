@@ -1,5 +1,6 @@
 # Netflix-Movies-and-TV-Shows-Clustering
-(https://data.nssmag.com/images/galleries/12502/netflix.png)
+
+![image](https://user-images.githubusercontent.com/112719599/211166673-db2cb884-0863-4c8f-a193-28a56696f535.png)
 
 
 **Introdution** 
