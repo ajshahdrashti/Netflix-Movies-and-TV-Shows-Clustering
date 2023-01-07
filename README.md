@@ -61,12 +61,13 @@ _**Algorithms Used:**_
 
 _**Conclusion:**_
 
-	From elbow, silhouette score and Dendrogram, discovered that Optimal number of clusters are six.
-	Netflix has 5377 movies and 2410 TV shows, there are more number movies on Netflix than TV shows.
-	Highest number of movies released in 2020 The number of movies on Netflix is growing significantly faster than the number of TV shows. We saw a huge increase in the number of movies and television episodes after 2015. there is a significant drop in the number of movies and television episodes produced after 2020. It appears that Netflix has focused more attention on increasing Movie content than TV Shows. Movies have increased much more dramatically than TV shows.
-	The most content is added to Netflix from October to January.
-	International Movies are the top most genre in Netflix, followed by Dramas, comedies and international movies.
-	Most of the movies have duration of between 70 to 150.
-	Unitated States has the highest number of contents on the Netflix, followed by India.
-	TV-MA has the highest number of ratings for tv shows. It means that Majority of Content is for adults.
-	Using the given data, a simple recommender system was created using cosine similarity and recommendations for Movies and Tv Shows were obtained.
+•	From elbow, silhouette score and Dendrogram, discovered that Optimal number of clusters are six.
+•	Netflix has 5377 movies and 2410 TV shows, there are more number movies on Netflix than TV shows.
+•	Highest number of movies released in 2020 The number of movies on Netflix is growing significantly faster than the number of TV shows. We saw a huge increase in the number of movies and television episodes after 2015. there is a significant drop in the number of movies and television episodes produced after 2020. It appears that Netflix has focused more attention on increasing Movie content than TV Shows. Movies have increased much more dramatically than TV shows.
+•	The most content is added to Netflix from October to January.
+•	International Movies are the top most genre in Netflix, followed by Dramas, comedies and international movies.
+•	Most of the movies have duration of between 70 to 150.
+•	Unitated States has the highest number of contents on the Netflix, followed by India.
+•	TV-MA has the highest number of ratings for tv shows. It means that Majority of Content is for adults.
+•	Using the given data, a simple recommender system was created using cosine similarity and recommendations for Movies and Tv Shows were obtained.
+
